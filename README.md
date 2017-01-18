@@ -1,0 +1,1 @@
+Repositorio dedicado a documentar cosas que no son netamente programación o periodismo de datos.
