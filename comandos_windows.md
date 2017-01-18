@@ -1,4 +1,4 @@
-<h1>Comandos en Windowsz</h1>
+<h1>Comandos en Windows/h1>
 **Algunos atajos de teclado importantes para Windows**
 ##Nuevos en Windows 10
 * Fijar ventana en un lateral: **Tecla Windows + Izquierda o Derecha** (también puede ser usada con Arriba o Abajo).
